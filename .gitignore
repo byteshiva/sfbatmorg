@@ -1,0 +1,5 @@
+wp-content/cache/
+*.tmp
+*.bak
+node_modules/
+vendor/
